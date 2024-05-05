@@ -3,7 +3,7 @@ import json
 
 
 def sentiment(text):
-    api_key = "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"
+    api_key = "Your code"
     client = OpenAI(api_key=api_key)
     post_text = text
     user_text = post_text + """ So, in short, is it positive towards Israel  or not?
