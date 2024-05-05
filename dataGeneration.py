@@ -14,7 +14,7 @@ current_time_utc = datetime.now().replace(tzinfo=timezone.utc)
 new_time = current_time_utc - timedelta(weeks=1)
 # Convert the time to the desired format with three digits after the period
 formatted_time = new_time.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAKLlrAEAAAAAfySht%2F8LsDAk5vNZsXuKsgsBdvI%3DIFuVNSjVC8ZFVpivVLjR00g20ZjEBLaPt7iyX1iWBiulew6Kya"
+bearer_token = "Your code"
 search_url = "https://api.twitter.com/2/tweets/search/recent"
 query_params = {'query': '(Israel OR IDF -is:retweet)', 'max_results': '50',
                 'tweet.fields': 'author_id,geo,created_at,note_tweet,public_metrics',
