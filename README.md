@@ -24,6 +24,11 @@ To run this project, follow these steps:
 - Stores analyzed data in MongoDB.
 - Presents sentiment analysis results in an interactive dashboard using Plotly and Dash.
 
+## Examples from the dashboard
+![צילום מסך 2024-05-05 105334](https://github.com/zitrinboim/Twitter_Sentiment_Analysis_Dashboard_Israel_Hamas_War_2024/assets/91831329/deead9e5-6e68-43d5-9522-37bd36b830ee)
+![newplot (4)](https://github.com/zitrinboim/Twitter_Sentiment_Analysis_Dashboard_Israel_Hamas_War_2024/assets/91831329/2f25499d-daea-4bb6-9b82-c65ed65f51a9)
+![newplot](https://github.com/zitrinboim/Twitter_Sentiment_Analysis_Dashboard_Israel_Hamas_War_2024/assets/91831329/e5d88e5a-dd54-4f38-a98b-29925c39caf8)
+
 ## Dependencies:
 - plotly
 - dash
@@ -38,3 +43,4 @@ To run this project, follow these steps:
 - Make sure to handle sensitive data, such as API keys, securely to prevent unauthorized access.
 
 **Disclaimer:** This project is for educational and research purposes only. The sentiment analysis results may not reflect the opinions or views of individuals accurately. Use the information provided with discretion.
+
