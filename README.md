@@ -19,10 +19,10 @@ To run this project, follow these steps:
 3. Explore the dashboard to gain insights into sentiment trends related to the Israel-Hamas conflict.
 
 ## Features:
-- Collects tweets mentioning Israel or Hamas from Twitter API.
-- Analyzes sentiment using OpenAI's GPT API.
-- Stores analyzed data in MongoDB.
-- Presents sentiment analysis results in an interactive dashboard using Plotly and Dash.
+###   - Collects tweets mentioning Israel or Hamas from Twitter API.
+###   - Analyzes sentiment using OpenAI's GPT API.
+###   - Stores analyzed data in MongoDB.
+###   - Presents sentiment analysis results in an interactive dashboard using Plotly and Dash.
 
 ## Examples from the dashboard
 ![צילום מסך 2024-05-05 105334](https://github.com/zitrinboim/Twitter_Sentiment_Analysis_Dashboard_Israel_Hamas_War_2024/assets/91831329/deead9e5-6e68-43d5-9522-37bd36b830ee)
